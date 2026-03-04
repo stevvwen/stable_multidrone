@@ -1,6 +1,6 @@
 # Stable Multi-Drone GNSS Tracking System for Marine Robots
 
-This repository contains the official implementation of the paper **"Stable Multi-Drone GNSS Tracking System for Marine Robots,"** accepted at the **2026 IEEE International Conference on Robotics & Automation (ICRA)**. [Paper link](https://arxiv.org/abs/2511.18694)
+Official implementation of the paper **"Stable Multi-Drone GNSS Tracking System for Marine Robots,"** accepted at the **2026 IEEE International Conference on Robotics & Automation (ICRA)**. [Paper link](https://arxiv.org/abs/2511.18694)
 
 Our system provides a robust framework for tracking marine robots across multiple drones by fusing vision-based detections with GNSS telemetry data. We extend the BYTETracker algorithm with a custom GPS Kalman Filter and multi-drone confidence-weighted sensor fusion to reliably estimate target coordinates in real-time.
 
